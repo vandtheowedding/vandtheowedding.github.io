@@ -1,0 +1,23 @@
+
+.content-subsection { 
+    padding-top: 50px;
+} 
+
+.text-align-justified{ 
+    text-align: justify;
+} 
+
+
+.seattle-section {
+    width: 100%;
+    padding: 50px 0;
+    color: #fff;
+    background: url(../img/smap.jpg) no-repeat center center scroll;
+    background-color: #000;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+
